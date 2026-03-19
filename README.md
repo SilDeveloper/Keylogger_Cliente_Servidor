@@ -1,4 +1,4 @@
-# ⌨️ Estudo de Captura de Eventos de Teclado em C
+# ⌨️ Estudo de Captura de Eventos de Teclado em Python
 
 Este projeto foi desenvolvido com fins acadêmicos para estudo de captura de eventos de entrada (teclado), como parte da disciplina de Segurança da Informação e Sistemas Operacionais.
 
