@@ -17,7 +17,7 @@ O objetivo principal deste projeto é compreender:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Linguagem: C
+* Linguagem: Python
 * Conceitos:
 
   * Manipulação de entrada/saída (I/O)
